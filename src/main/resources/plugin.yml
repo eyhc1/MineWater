@@ -1,0 +1,4 @@
+name: MineWater
+version: ${project.version}
+main: me.eyhc.MineWater
+api-version: 1.16
